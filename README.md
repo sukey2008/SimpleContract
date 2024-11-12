@@ -77,7 +77,5 @@ Using the Remix IDE, you can call various functions of your contract, such as ch
 
 ---
 
-## Conclusion
 
-You've just written, compiled, and deployed a basic cryptocurrency contract on the Ethereum blockchain! This is just the beginning, and there's a lot more to explore in the world of blockchain development. Happy coding!
 """
