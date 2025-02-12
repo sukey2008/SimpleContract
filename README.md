@@ -75,6 +75,8 @@ Your contract is now deployed on the Ethereum blockchain!
 
 Using the Remix IDE, you can call various functions of your contract, such as checking the balance of an address or transferring tokens.
 
+### 6. Update the Contract
+
 ---
 
 
